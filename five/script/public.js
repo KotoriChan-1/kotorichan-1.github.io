@@ -70,13 +70,13 @@ $id('grxx').onclick = ()=>{
             <div id="pit">个人信息</div>
             <img id="cha" src="./img/叉.png" />
             <div class="info">· 照片: &nbsp; -</div>
-            <div class="info">· 姓名: &nbsp; 刘淑贤</div>
+            <div class="info">· 姓名: &nbsp; 邵泊鑫</div>
             <div class="info">· 学号: &nbsp; 2021121358</div>
-            <div class="info">· 性别: &nbsp; 女</div>
+            <div class="info">· 性别: &nbsp; 男</div>
             <div class="info">· 年级: &nbsp; 2021</div>
-            <div class="info">· 学院: &nbsp; 人文艺术学院</div>
-            <div class="info">· 专业: &nbsp; 现代文秘</div>
-            <div class="info">· 班级: &nbsp; 21现代文秘1</div>
+            <div class="info">· 学院: &nbsp; 电子与信息工程学院</div>
+            <div class="info">· 专业: &nbsp; 大数据技术</div>
+            <div class="info">· 班级: &nbsp; 21大数据技术1</div>
             <div class="info">· 宿舍: &nbsp; -</div>
         </div>
     </div>`
